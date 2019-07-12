@@ -1,0 +1,26 @@
+{
+  "_id": "page.litigation-friend-evidence",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.litigation-friend-evidence--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.litigation-friend-evidence--fieldset--fileupload.auto_name__23",
+          "_type": "fileupload",
+          "hint": "You can upload a court order or lasting power of attorney (LPA) as a copy or photo of the original",
+          "name": "auto_name__23"
+        }
+      ],
+      "legend": "File",
+      "namespace": "namespace_auto__2",
+      "repeatable": true,
+      "repeatableAdd": "Add another file",
+      "repeatableDelete": "Remove",
+      "repeatableHeading": "Provide evidence that you can act on the respondent's behalf",
+      "repeatableMaximum": 10
+    }
+  ],
+  "url": "litigation-friend-evidence"
+}

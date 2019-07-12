@@ -1,0 +1,33 @@
+{
+  "_id": "page.what-is-your-role",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.what-is-your-role--radios.auto_name__22",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.what-is-your-role--radios.auto_name__22--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Officer of the company or partnership",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.what-is-your-role--radios.auto_name__22--radio.auto_value__5--2",
+          "_type": "radio",
+          "hint": "Someone who can legally act on the respondent's behalf",
+          "label": "Litigation friend",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "What is your role?",
+      "name": "auto_name__22"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__20",
+    "operator": "is",
+    "value": "auto_value__5"
+  },
+  "url": "what-is-your-role"
+}

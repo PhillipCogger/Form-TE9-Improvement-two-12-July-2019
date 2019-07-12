@@ -27,7 +27,9 @@
     "page.evidence-to-support-application",
     "page.your-details",
     "page.person-completing-form",
-    "page.vehicle-ownership"
+    "page.vehicle-ownership",
+    "page.what-is-your-role",
+    "page.litigation-friend-evidence"
   ],
   "url": "/"
 }
