@@ -1,0 +1,14 @@
+{
+  "_id": "page.appeal-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.appeal-details--radios.auto_name__9",
+      "_type": "radios",
+      "hint": "Select one option",
+      "legend": "What was the result of your appeal?",
+      "name": "auto_name__9"
+    }
+  ],
+  "url": "appeal-details"
+}
