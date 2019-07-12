@@ -50,7 +50,7 @@
   ],
   "heading": "Payment details",
   "show": {
-    "all": [
+    "any": [
       {
         "identifier": "auto_name__7",
         "operator": "defined"
@@ -60,7 +60,8 @@
         "operator": "is",
         "value": "auto_value__6"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "payment-details"
 }
