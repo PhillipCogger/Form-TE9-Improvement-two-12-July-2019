@@ -9,6 +9,13 @@
       "html": "If you have any difficulty completing this form you can contact the Traffic Enforcement Centre on 0300 123 1059."
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.start--content",
+      "_type": "content",
+      "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
+    }
+  ],
   "heading": "Apply to stop an order for recovery of an unpaid penalty charge",
   "steps": [],
   "url": "/"
