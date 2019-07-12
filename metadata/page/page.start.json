@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "You can apply to stop an order for recovery of an unpaid penalty charge if:\r\n\r\n* you didn't receive the penalty charge notice\r\n* you made representations to the local authority, but haven't received a reply\r\n* you've appealed to an adjudicator, but haven't received a decision, response, or you won the appeal\r\n* you've paid the penalty charge in full\r\n\r\n### Before you start\r\nTo complete this form you'll need the Penalty Charge Notice (PCN) number and the Registration number (number plate) of the vehicle. Both of these numbers are on form TE3.",
+  "body": "You can apply to stop an order for recovery of an unpaid penalty charge if:\r\n\r\n* you didn't receive the penalty charge notice\r\n* you made representations to the local authority, but haven't received a reply\r\n* you've appealed to an adjudicator, but haven't received a decision, response, or you won the appeal\r\n* you've paid the penalty charge in full\r\n\r\n### Before you start\r\nYou'll need the Penalty Charge Notice (PCN) number and the registration number of the vehicle.",
   "components": [
     {
       "_id": "page.start--inset",
@@ -17,6 +17,8 @@
     }
   ],
   "heading": "Apply to stop an order for recovery of an unpaid penalty charge",
-  "steps": [],
+  "steps": [
+    "page.penalty-charge-details"
+  ],
   "url": "/"
 }
