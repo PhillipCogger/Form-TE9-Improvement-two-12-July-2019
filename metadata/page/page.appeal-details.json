@@ -31,7 +31,7 @@
     }
   ],
   "show": {
-    "any": [
+    "all": [
       {
         "identifier": "auto_name__6",
         "operator": "defined"
@@ -42,7 +42,7 @@
         "value": "auto_value__5"
       }
     ],
-    "conditionsType": "any"
+    "conditionsType": "all"
   },
   "url": "appeal-details"
 }
