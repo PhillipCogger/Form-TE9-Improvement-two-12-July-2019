@@ -25,7 +25,8 @@
     "page.appeal-details",
     "page.payment-details",
     "page.evidence-to-support-application",
-    "page.your-details"
+    "page.your-details",
+    "page.person-completing-form"
   ],
   "url": "/"
 }
