@@ -1,0 +1,27 @@
+{
+  "_id": "page.vehicle-ownership",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.vehicle-ownership--radios.auto_name__21",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.vehicle-ownership--radios.auto_name__21--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.vehicle-ownership--radios.auto_name__21--radio.auto_value__5--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "Is the vehicle owned and registered by a company or partnership?",
+      "name": "auto_name__21"
+    }
+  ],
+  "url": "vehicle-ownership"
+}

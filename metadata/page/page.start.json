@@ -26,7 +26,8 @@
     "page.payment-details",
     "page.evidence-to-support-application",
     "page.your-details",
-    "page.person-completing-form"
+    "page.person-completing-form",
+    "page.vehicle-ownership"
   ],
   "url": "/"
 }
