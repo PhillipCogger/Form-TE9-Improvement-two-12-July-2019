@@ -30,7 +30,11 @@
     "page.vehicle-ownership",
     "page.what-is-your-role",
     "page.litigation-friend-evidence",
-    "page.respondent-confirmation"
+    "page.respondent-confirmation",
+    "page.confirmation-on-behalf-of-respondent",
+    "page.contact-preferences",
+    "page.your-email-address",
+    "page.your-phone-number"
   ],
   "url": "/"
 }
