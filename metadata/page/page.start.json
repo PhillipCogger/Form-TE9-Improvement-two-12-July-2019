@@ -29,7 +29,8 @@
     "page.person-completing-form",
     "page.vehicle-ownership",
     "page.what-is-your-role",
-    "page.litigation-friend-evidence"
+    "page.litigation-friend-evidence",
+    "page.respondent-confirmation"
   ],
   "url": "/"
 }

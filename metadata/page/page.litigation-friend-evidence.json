@@ -22,5 +22,10 @@
       "repeatableMaximum": 10
     }
   ],
+  "show": {
+    "identifier": "auto_name__22",
+    "operator": "is",
+    "value": "auto_value__5"
+  },
   "url": "litigation-friend-evidence"
 }
