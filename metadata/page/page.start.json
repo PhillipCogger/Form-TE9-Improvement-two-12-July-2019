@@ -34,7 +34,9 @@
     "page.confirmation-on-behalf-of-respondent",
     "page.contact-preferences",
     "page.your-email-address",
-    "page.your-phone-number"
+    "page.your-phone-number",
+    "page.check-answers",
+    "page.application-sent"
   ],
   "url": "/"
 }
