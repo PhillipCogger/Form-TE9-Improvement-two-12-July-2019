@@ -23,7 +23,8 @@
     "page.reason-for-applying",
     "page.reason-for-application",
     "page.appeal-details",
-    "page.payment-details"
+    "page.payment-details",
+    "page.evidence-to-support-application"
   ],
   "url": "/"
 }
