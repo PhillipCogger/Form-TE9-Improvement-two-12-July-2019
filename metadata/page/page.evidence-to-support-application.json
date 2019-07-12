@@ -25,5 +25,28 @@
       "repeatableMaximum": 10
     }
   ],
+  "show": {
+    "any": [
+      {
+        "identifier": "auto_name__5",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__6",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__8",
+        "operator": "is",
+        "value": "auto_value__4"
+      },
+      {
+        "identifier": "auto_name__8",
+        "operator": "is",
+        "value": "auto_value__5"
+      }
+    ],
+    "conditionsType": "any"
+  },
   "url": "evidence-to-support-application"
 }
