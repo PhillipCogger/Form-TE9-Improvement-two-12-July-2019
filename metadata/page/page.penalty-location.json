@@ -1,0 +1,27 @@
+{
+  "_id": "page.penalty-location",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.penalty-location--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.penalty-location--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "label": "In a London Borough",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.penalty-location--radios.auto_name__3--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Outside London",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Where did the penalty happen?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "penalty-location"
+}

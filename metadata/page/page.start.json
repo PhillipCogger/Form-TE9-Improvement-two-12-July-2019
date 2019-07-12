@@ -18,7 +18,9 @@
   ],
   "heading": "Apply to stop an order for recovery of an unpaid penalty charge",
   "steps": [
-    "page.penalty-charge-details"
+    "page.penalty-charge-details",
+    "page.penalty-location",
+    "page.reason-for-application"
   ],
   "url": "/"
 }

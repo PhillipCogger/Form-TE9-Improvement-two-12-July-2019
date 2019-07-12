@@ -1,0 +1,39 @@
+{
+  "_id": "page.reason-for-application",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.reason-for-application--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "I didn't receive the penalty charge notice",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "I made representations to the local authority, but haven't received a reply",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "label": "I've appealed to an adjudicator",
+          "name": "auto_name__6"
+        },
+        {
+          "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "label": "I've paid the penalty charge",
+          "name": "auto_name__7"
+        }
+      ],
+      "legend": "Why are you applying to stop an order for recovery?"
+    }
+  ],
+  "url": "reason-for-application"
+}
