@@ -22,7 +22,8 @@
     "page.penalty-location",
     "page.reason-for-applying",
     "page.reason-for-application",
-    "page.appeal-details"
+    "page.appeal-details",
+    "page.payment-details"
   ],
   "url": "/"
 }
