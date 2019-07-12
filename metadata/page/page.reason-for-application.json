@@ -35,5 +35,10 @@
       "legend": "Why are you applying to stop an order for recovery?"
     }
   ],
+  "show": {
+    "identifier": "auto_name__3",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
   "url": "reason-for-applying-outside-london"
 }
