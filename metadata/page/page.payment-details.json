@@ -50,40 +50,18 @@
   ],
   "heading": "Payment details",
   "show": {
-    "any": [
-      {
-        "identifier": "auto_name__7",
-        "operator": "defined"
-      },
+    "conditionsType": "exactly",
+    "exactly": [
       {
         "identifier": "auto_name__8",
         "operator": "is",
         "value": "auto_value__6"
       },
       {
-        "identifier": "auto_name__8",
-        "negated": true,
-        "operator": "is",
-        "value": "auto_value__3"
-      },
-      {
-        "identifier": "auto_name__8",
-        "negated": true,
-        "operator": "is",
-        "value": "auto_value__4"
-      },
-      {
-        "identifier": "auto_name__4",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "auto_name__5",
-        "negated": true,
+        "identifier": "auto_name__7",
         "operator": "defined"
       }
-    ],
-    "conditionsType": "any"
+    ]
   },
   "url": "payment-details"
 }
