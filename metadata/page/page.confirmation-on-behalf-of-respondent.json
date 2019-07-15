@@ -19,9 +19,9 @@
   ],
   "heading": "Confirmation on behalf of respondent",
   "show": {
-    "identifier": "auto_name__20",
+    "identifier": "person_completing_form",
     "operator": "is",
-    "value": "auto_value__5"
+    "value": "respondent_completing_form"
   },
   "url": "confirmation-on-behalf-of-respondent"
 }

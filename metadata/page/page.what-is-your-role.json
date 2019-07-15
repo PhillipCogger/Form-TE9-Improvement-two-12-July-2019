@@ -10,24 +10,24 @@
           "_id": "page.what-is-your-role--radios.auto_name__22--radio.auto_value__5",
           "_type": "radio",
           "label": "Officer of the company or partnership",
-          "value": "auto_value__5"
+          "value": "role_of_representative_company_officer"
         },
         {
           "_id": "page.what-is-your-role--radios.auto_name__22--radio.auto_value__5--2",
           "_type": "radio",
           "hint": "Someone who can legally act on the respondent's behalf",
           "label": "Litigation friend",
-          "value": "auto_value__5"
+          "value": "role_of_representative_litigation_friend"
         }
       ],
       "legend": "What is your role?",
-      "name": "auto_name__22"
+      "name": "role_of_representative"
     }
   ],
   "show": {
-    "identifier": "auto_name__20",
+    "identifier": "person_completing_form",
     "operator": "is",
-    "value": "auto_value__5"
+    "value": "respondent_completing_form"
   },
   "url": "what-is-your-role"
 }

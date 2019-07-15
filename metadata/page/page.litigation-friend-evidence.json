@@ -23,9 +23,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__22",
+    "identifier": "role_of_representative",
     "operator": "is",
-    "value": "auto_value__5"
+    "value": "role_of_representative_company_officer"
   },
   "url": "litigation-friend-evidence"
 }
