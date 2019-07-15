@@ -50,18 +50,31 @@
   ],
   "heading": "Payment details",
   "show": {
-    "conditionsType": "exactly",
-    "exactly": [
+    "any": [
+      {
+        "0": {
+          "0": {
+            "0": {
+              "identifier": "auto_name__8",
+              "operator": "is",
+              "value": "auto_value__6"
+            }
+          },
+          "identifier": "auto_name__8",
+          "operator": "is",
+          "value": "auto_value__6"
+        },
+        "identifier": "auto_name__7",
+        "operator": "defined"
+      },
       {
         "identifier": "auto_name__8",
         "operator": "is",
         "value": "auto_value__6"
       },
-      {
-        "identifier": "auto_name__7",
-        "operator": "defined"
-      }
-    ]
+      {}
+    ],
+    "conditionsType": "any"
   },
   "url": "payment-details"
 }
