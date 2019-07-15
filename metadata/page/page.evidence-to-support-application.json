@@ -26,7 +26,8 @@
     }
   ],
   "show": {
-    "any": [
+    "conditionsType": "exactly",
+    "exactly": [
       {
         "identifier": "auto_name__5",
         "operator": "defined"
@@ -54,8 +55,7 @@
         "identifier": "auto_name__7",
         "operator": "defined"
       }
-    ],
-    "conditionsType": "any"
+    ]
   },
   "url": "evidence-to-support-application"
 }
