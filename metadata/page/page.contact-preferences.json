@@ -11,17 +11,17 @@
           "_id": "page.contact-preferences--radios.auto_name__28--radio.auto_value__5",
           "_type": "radio",
           "label": "Email",
-          "value": "auto_value__5"
+          "value": "contact_preferences_email"
         },
         {
           "_id": "page.contact-preferences--radios.auto_name__28--radio.auto_value__5--2",
           "_type": "radio",
           "label": "Text message",
-          "value": "auto_value__5"
+          "value": "contact_preferences_text"
         }
       ],
       "legend": "How would you prefer to be contacted about your application?",
-      "name": "auto_name__28"
+      "name": "contact_preferences"
     }
   ],
   "url": "contact-preferences"

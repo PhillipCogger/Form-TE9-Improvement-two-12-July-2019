@@ -7,13 +7,13 @@
       "_type": "text",
       "hint": "We'll only use this to contact you about your application",
       "label": "Your email address",
-      "name": "auto_name__29"
+      "name": "email_address_details"
     }
   ],
   "show": {
-    "identifier": "auto_name__28",
+    "identifier": "contact_preferences",
     "operator": "is",
-    "value": "auto_value__5"
+    "value": "contact_preferences_email"
   },
   "url": "your-email-address"
 }

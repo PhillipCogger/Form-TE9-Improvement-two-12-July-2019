@@ -7,14 +7,14 @@
       "_id": "page.respondent-confirmation--text.auto_name__24",
       "_type": "text",
       "label": "Your full name",
-      "name": "auto_name__24"
+      "name": "respondent_confirmation_full_name"
     },
     {
       "_id": "page.respondent-confirmation--date.auto_name__25",
       "_type": "date",
       "hint": "For example, 27 6 2019",
       "label": "Date",
-      "name": "auto_name__25"
+      "name": "respondent_confirmation_date"
     }
   ],
   "heading": "Confirmation (respondent)",

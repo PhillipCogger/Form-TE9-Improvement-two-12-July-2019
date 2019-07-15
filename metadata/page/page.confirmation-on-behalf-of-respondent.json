@@ -7,14 +7,14 @@
       "_id": "page.confirmation-on-behalf-of-respondent--text.auto_name__26",
       "_type": "text",
       "label": "Your full name",
-      "name": "auto_name__26"
+      "name": "confirmation_on_behalf_of_respondent_full_name"
     },
     {
       "_id": "page.confirmation-on-behalf-of-respondent--date.auto_name__27",
       "_type": "date",
       "hint": "For example, 27 6 2019",
       "label": "Date",
-      "name": "auto_name__27"
+      "name": "confirmation_on_behalf_of_respondent_date"
     }
   ],
   "heading": "Confirmation on behalf of respondent",
