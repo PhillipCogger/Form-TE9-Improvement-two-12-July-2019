@@ -29,5 +29,10 @@
       "name": "vehicle_owned_company_partnership"
     }
   ],
+  "show": {
+    "identifier": "person_completing_form",
+    "operator": "is",
+    "value": "completing_form_on_behalf_of_respondent"
+  },
   "url": "vehicle-ownership"
 }
