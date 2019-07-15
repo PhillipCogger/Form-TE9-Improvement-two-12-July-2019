@@ -37,9 +37,9 @@
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__8",
+        "identifier": "london_reason_for_stopping_order",
         "operator": "is",
-        "value": "auto_value__5"
+        "value": "london_appealed_to_adjudicator"
       }
     ],
     "conditionsType": "any"

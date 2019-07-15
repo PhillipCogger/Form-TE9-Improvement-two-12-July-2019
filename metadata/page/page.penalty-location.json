@@ -10,17 +10,17 @@
           "_id": "page.penalty-location--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
           "label": "In a London Borough",
-          "value": "auto_value__1"
+          "value": "penalty_charge_location_london"
         },
         {
           "_id": "page.penalty-location--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
           "label": "Outside London",
-          "value": "auto_value__2"
+          "value": "penalty_charge_location_outside_london"
         }
       ],
       "legend": "Where did the penalty happen?",
-      "name": "auto_name__3"
+      "name": "penalty_charge_location"
     }
   ],
   "url": "penalty-location"

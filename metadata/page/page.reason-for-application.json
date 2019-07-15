@@ -36,9 +36,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__3",
+    "identifier": "penalty_charge_location",
     "operator": "is",
-    "value": "auto_value__2"
+    "value": "penalty_charge_location_outside_london"
   },
   "url": "reason-for-applying-outside-london"
 }

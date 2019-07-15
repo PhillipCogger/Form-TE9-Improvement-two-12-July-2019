@@ -37,19 +37,19 @@
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__8",
+        "identifier": "london_reason_for_stopping_order",
         "operator": "is",
-        "value": "auto_value__4"
+        "value": "london_local_authority_no_reply"
       },
       {
-        "identifier": "auto_name__8",
+        "identifier": "london_reason_for_stopping_order",
         "operator": "is",
-        "value": "auto_value__5"
+        "value": "london_appealed_to_adjudicator"
       },
       {
-        "identifier": "auto_name__8",
+        "identifier": "london_reason_for_stopping_order",
         "operator": "is",
-        "value": "auto_value__6"
+        "value": "london_penalty_charge_paid"
       },
       {
         "identifier": "auto_name__7",
