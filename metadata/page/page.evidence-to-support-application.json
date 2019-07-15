@@ -44,6 +44,15 @@
         "identifier": "auto_name__8",
         "operator": "is",
         "value": "auto_value__5"
+      },
+      {
+        "identifier": "auto_name__8",
+        "operator": "is",
+        "value": "auto_value__6"
+      },
+      {
+        "identifier": "auto_name__7",
+        "operator": "defined"
       }
     ],
     "conditionsType": "any"
