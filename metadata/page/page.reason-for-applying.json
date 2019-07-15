@@ -11,7 +11,7 @@
           "_id": "page.reason-for-applying--radios.auto_name__8--radio.auto_value__3",
           "_type": "radio",
           "label": "I didn't receive the penalty charge notice",
-          "value": "london_reason_for_stopping_order_penalty_charge_notice_not_received"
+          "value": "london_penalty_notice_not_received"
         },
         {
           "_id": "page.reason-for-applying--radios.auto_name__8--radio.auto_value__4",
