@@ -59,6 +59,18 @@
         "identifier": "auto_name__8",
         "operator": "is",
         "value": "auto_value__6"
+      },
+      {
+        "identifier": "auto_name__8",
+        "negated": true,
+        "operator": "is",
+        "value": "auto_value__3"
+      },
+      {
+        "identifier": "auto_name__8",
+        "negated": true,
+        "operator": "is",
+        "value": "auto_value__4"
       }
     ],
     "conditionsType": "any"
