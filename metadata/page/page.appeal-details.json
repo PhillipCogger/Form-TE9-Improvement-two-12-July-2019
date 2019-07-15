@@ -11,23 +11,23 @@
           "_id": "page.appeal-details--radios.auto_name__9--radio.auto_value__7",
           "_type": "radio",
           "label": "I haven't received a response to my appeal",
-          "value": "auto_value__7"
+          "value": "appeal_result_no_response"
         },
         {
           "_id": "page.appeal-details--radios.auto_name__9--radio.auto_value__8",
           "_type": "radio",
           "label": "The adjudicator hadn't made a decision by the time I'd received the charge certificate",
-          "value": "auto_value__8"
+          "value": "appeal_result_adjudicator_no_decision"
         },
         {
           "_id": "page.appeal-details--radios.auto_name__9--radio.auto_value__9",
           "_type": "radio",
           "label": "I won the appeal",
-          "value": "auto_value__9"
+          "value": "appeal_result_won"
         }
       ],
       "legend": "What was the result of your appeal?",
-      "name": "auto_name__9"
+      "name": "appeal_result"
     }
   ],
   "show": {
