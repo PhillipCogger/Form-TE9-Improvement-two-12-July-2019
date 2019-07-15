@@ -11,25 +11,25 @@
           "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
           "label": "I didn't receive the penalty charge notice",
-          "name": "auto_name__4"
+          "name": "outside_london_penalty_notice_not_received"
         },
         {
           "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__5",
           "_type": "checkbox",
           "label": "I made representations to the local authority, but haven't received a reply",
-          "name": "auto_name__5"
+          "name": "outside_london_local_authority_no_reply"
         },
         {
           "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__6",
           "_type": "checkbox",
           "label": "I've appealed to an adjudicator",
-          "name": "auto_name__6"
+          "name": "outside_london_appealed_to_adjudicator"
         },
         {
           "_id": "page.reason-for-application--checkboxes--checkbox.auto_name__7",
           "_type": "checkbox",
           "label": "I've paid the penalty charge",
-          "name": "auto_name__7"
+          "name": "outside_london_penalty_charge_paid"
         }
       ],
       "legend": "Why are you applying to stop an order for recovery?"

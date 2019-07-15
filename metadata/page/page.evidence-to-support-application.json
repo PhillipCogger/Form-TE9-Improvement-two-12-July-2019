@@ -29,11 +29,11 @@
     "conditionsType": "exactly",
     "exactly": [
       {
-        "identifier": "auto_name__5",
+        "identifier": "outside_london_local_authority_no_reply",
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__6",
+        "identifier": "outside_london_appealed_to_adjudicator",
         "operator": "defined"
       },
       {
@@ -52,7 +52,7 @@
         "value": "london_penalty_charge_paid"
       },
       {
-        "identifier": "auto_name__7",
+        "identifier": "outside_london_penalty_charge_paid",
         "operator": "defined"
       }
     ]
