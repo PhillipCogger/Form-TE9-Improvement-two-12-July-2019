@@ -25,9 +25,18 @@
     }
   ],
   "show": {
-    "identifier": "person_completing_form",
-    "operator": "is",
-    "value": "completing_form_on_behalf_of_respondent"
+    "all": [
+      {
+        "identifier": "person_completing_form",
+        "operator": "is",
+        "value": "completing_form_on_behalf_of_respondent"
+      },
+      {
+        "identifier": "vehicle_owned_company_partnership",
+        "operator": "is",
+        "value": "vehicle_company_owned_yes"
+      }
+    ]
   },
   "url": "what-is-your-role"
 }
