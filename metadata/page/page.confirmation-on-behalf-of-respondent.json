@@ -21,7 +21,7 @@
   "show": {
     "identifier": "person_completing_form",
     "operator": "is",
-    "value": "respondent_completing_form"
+    "value": "completing_form_on_behalf_of_respondent"
   },
   "url": "confirmation-on-behalf-of-respondent"
 }
