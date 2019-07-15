@@ -71,6 +71,16 @@
         "negated": true,
         "operator": "is",
         "value": "auto_value__4"
+      },
+      {
+        "identifier": "auto_name__4",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__5",
+        "negated": true,
+        "operator": "defined"
       }
     ],
     "conditionsType": "any"
