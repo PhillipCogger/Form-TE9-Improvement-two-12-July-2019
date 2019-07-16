@@ -10,7 +10,7 @@
         {
           "_id": "page.appeal-details--radios.auto_name__9--radio.auto_value__7",
           "_type": "radio",
-          "label": "I haven't received a response to my appeal",
+          "label": "I haven't received a response",
           "value": "appeal_result_no_response"
         },
         {
@@ -22,7 +22,7 @@
         {
           "_id": "page.appeal-details--radios.auto_name__9--radio.auto_value__9",
           "_type": "radio",
-          "label": "I won the appeal",
+          "label": "I won",
           "value": "appeal_result_won"
         }
       ],
