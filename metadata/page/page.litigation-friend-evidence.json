@@ -22,31 +22,6 @@
       "repeatableMaximum": 10
     }
   ],
-  "show": {
-    "any": [
-      {
-        "identifier": "person_completing_form",
-        "operator": "is",
-        "value": "completing_form_on_behalf_of_respondent"
-      },
-      {
-        "identifier": "vehicle_owned_company_partnership",
-        "operator": "is",
-        "value": "vehicle_company_owned_no"
-      },
-      {
-        "identifier": "role_of_representative",
-        "operator": "is",
-        "value": "role_of_representative_litigation_friend"
-      },
-      {
-        "identifier": "role_of_representative",
-        "negated": true,
-        "operator": "is",
-        "value": "role_of_representative_company_officer"
-      }
-    ],
-    "conditionsType": "any"
-  },
+  "show": false,
   "url": "litigation-friend-evidence"
 }
