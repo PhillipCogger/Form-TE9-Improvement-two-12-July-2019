@@ -23,7 +23,7 @@
     }
   ],
   "show": {
-    "all": [
+    "any": [
       {
         "identifier": "person_completing_form",
         "operator": "is",
@@ -46,7 +46,7 @@
         "value": "role_of_representative_company_officer"
       }
     ],
-    "conditionsType": "all"
+    "conditionsType": "any"
   },
   "url": "litigation-friend-evidence"
 }
