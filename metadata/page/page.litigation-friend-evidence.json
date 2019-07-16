@@ -23,7 +23,7 @@
     }
   ],
   "show": {
-    "all": [
+    "any": [
       {
         "identifier": "person_completing_form",
         "operator": "is",
@@ -39,7 +39,8 @@
         "operator": "is",
         "value": "role_of_representative_litigation_friend"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "litigation-friend-evidence"
 }
