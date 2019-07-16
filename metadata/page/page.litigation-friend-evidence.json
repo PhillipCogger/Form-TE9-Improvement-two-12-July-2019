@@ -33,6 +33,11 @@
         "identifier": "vehicle_owned_company_partnership",
         "operator": "is",
         "value": "vehicle_company_owned_no"
+      },
+      {
+        "identifier": "role_of_representative",
+        "operator": "is",
+        "value": "role_of_representative_litigation_friend"
       }
     ]
   },
