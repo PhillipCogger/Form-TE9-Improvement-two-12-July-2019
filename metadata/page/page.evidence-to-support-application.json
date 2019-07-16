@@ -27,8 +27,7 @@
     }
   ],
   "show": {
-    "conditionsType": "exactly",
-    "exactly": [
+    "any": [
       {
         "identifier": "outside_london_local_authority_no_reply",
         "operator": "defined"
@@ -56,7 +55,8 @@
         "identifier": "outside_london_penalty_charge_paid",
         "operator": "defined"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "evidence-to-support-application"
 }
