@@ -23,8 +23,7 @@
     }
   ],
   "show": {
-    "conditionsType": "exactly",
-    "exactly": [
+    "any": [
       {
         "identifier": "role_of_representative",
         "operator": "is",
@@ -35,7 +34,8 @@
         "operator": "is",
         "value": "vehicle_company_owned_no"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "litigation-friend-evidence"
 }
