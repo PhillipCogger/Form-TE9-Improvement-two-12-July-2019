@@ -22,6 +22,10 @@
       "repeatableMaximum": 10
     }
   ],
-  "show": false,
+  "show": {
+    "identifier": "role_of_representative",
+    "operator": "is",
+    "value": "role_of_representative_litigation_friend"
+  },
   "url": "litigation-friend-evidence"
 }
