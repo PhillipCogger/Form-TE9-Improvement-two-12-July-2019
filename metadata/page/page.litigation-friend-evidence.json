@@ -10,6 +10,7 @@
           "_id": "page.litigation-friend-evidence--fieldset--fileupload.auto_name__23",
           "_type": "fileupload",
           "hint": "You can upload a court order or lasting power of attorney (LPA) as a copy or photo of the original",
+          "label": "Evidence",
           "name": "evidence_respondent_behalf"
         }
       ],
