@@ -22,7 +22,7 @@
       "repeatable": true,
       "repeatableAdd": "Add another file",
       "repeatableDelete": "Remove",
-      "repeatableHeading": "Upload any evidence to support your application",
+      "repeatableHeading": "Upload any evidence you have to support your application",
       "repeatableMaximum": 10
     }
   ],
