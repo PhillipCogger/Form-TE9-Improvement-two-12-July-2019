@@ -7,7 +7,7 @@
       "_type": "number",
       "hint": "We'll only use this to contact you about your application",
       "label": "Your phone number",
-      "name": "details_phone_number",
+      "name": "details-phone-number",
       "widthClassInput": "20"
     }
   ],
